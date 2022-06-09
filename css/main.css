@@ -1,0 +1,30 @@
+body {
+  background: rebeccapurple;
+}
+.container {
+  margin: 0;
+  padding: 20px;
+  
+}
+.form {
+  text-align: center;
+
+}
+.input , select {
+  border: 5px solid red;
+  width: 200px;
+  height: 40px;
+
+}
+.btn {
+  border-radius: 3px solid hwb(101 7% 15%);
+  width: 100px;
+  height: 30px;
+  background: aqua;
+  margin-top: 50px;
+}
+.tittle {
+  text-align: center;
+  font-size: 26px;
+  color: aliceblue;
+}
